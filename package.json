@@ -1,0 +1,15 @@
+{
+  "name": "jbrowse",
+  "version": "0.0.1",
+  "description": "The Browser of the future",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "jvrcruz",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
